@@ -7,8 +7,8 @@
 ### Backend Engineer
 
 ####  👋 Hi there
-#####  💻  I'm Jihyun Kwon, who dreams of becoming a backend engineer.
-#####  📫 How to reach me: dial2825@naver.com
+######  💻  I'm Jihyun Kwon, who dreams of becoming a backend engineer.
+######  📫 How to reach me: dial2825@naver.com
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dodokwon.tistory.com/)](https://dodokwon.tistory.com/)
 
  
