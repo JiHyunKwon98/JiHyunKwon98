@@ -4,7 +4,7 @@
 	
 </div>
 
-### Backend Engineer
+### Backend Engineer ❤️
 
 ####  👋 Hi there
 ######  💻  I'm Jihyun Kwon, who dreams of becoming a backend engineer.
