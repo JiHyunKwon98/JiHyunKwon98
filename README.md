@@ -4,7 +4,7 @@
 	
 </div>
 
-### Back_end Engineer ❤️
+### ❤️ Engineer ❤️
 
 ####  👋 Hi there
 ######  💻  I'm Jihyun Kwon
